@@ -14,7 +14,7 @@
 • If you are searching for _Code, __Algorithms used_ and _Accuracy_ of the model...Click the link given below:<br>
 Link: "https://github.com/Vamshidhar1/Pneumonia-Prediction/blob/main/PNEUMONIA.ipynb"
 
-• For complete project files to deploy this model.link below:
+• For complete project files to deploy this model click the link given below:<br>
 Link: "https://github.com/Vamshidhar1/Pneumonia-Prediction"
 
 • If you want my saved model to run and deploy, Here is the _link:_ (https://drive.google.com/file/d/1OgS-D2_GHrV9eCsiVfPC-Cf3mb0ce8Ch/view?usp=sharing)
