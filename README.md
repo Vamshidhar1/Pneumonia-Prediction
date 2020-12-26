@@ -6,4 +6,13 @@
 
 • Reason for this Project is that Deep Learning has shown very good results in medical imaging. It is due to the high volume of data that is generated in the medical domain. There are many use cases where AI technologies are used today in the healthcare domain.<br> 
 
-So _Objective_ of this Project is to Build an model to automatically identify whether a patient is suffering from pneumonia or not by looking at chest X-ray images.
+• So _Objective_ of this Project is to Build an model to automatically identify whether a patient is suffering from pneumonia or not, just by looking at chest X-ray images.
+
+• This repository consists of files required to deploy a _Deep Learning model_ for Detecting Pneumonia from X-ray Images and Web app which is __created with Flask__.<br>
+
+
+• If you are searching for _Code, __Algorithms used_ and _Accuracy_ of the model...Click the link given below:
+link:"https://github.com/Vamshidhar1/Pneumonia-Prediction/blob/main/PNEUMONIA.ipynb"
+
+• For complete project files to deploy this model.link below:
+Link:"https://github.com/Vamshidhar1/Pneumonia-Prediction"
