@@ -11,8 +11,12 @@
 • This repository consists of files required to deploy a _Deep Learning model_ for Detecting Pneumonia from X-ray Images and Web app which is __created with Flask__.<br>
 
 
-• If you are searching for _Code, __Algorithms used_ and _Accuracy_ of the model...Click the link given below:
+• If you are searching for _Code, __Algorithms used_ and _Accuracy_ of the model...Click the link given below:<br>
 Link: "https://github.com/Vamshidhar1/Pneumonia-Prediction/blob/main/PNEUMONIA.ipynb"
 
 • For complete project files to deploy this model.link below:
-__Link: "https://github.com/Vamshidhar1/Pneumonia-Prediction"
+Link: "https://github.com/Vamshidhar1/Pneumonia-Prediction"
+
+• If you want my saved model to run and deploy, Here is the _link:_ (https://drive.google.com/file/d/1OgS-D2_GHrV9eCsiVfPC-Cf3mb0ce8Ch/view?usp=sharing)
+
+•  Please do ⭐ the repository, if it helped you in anyway.
